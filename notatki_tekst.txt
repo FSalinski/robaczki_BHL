@@ -1,0 +1,6 @@
+Trenowanie modeli pożera dużo zasobów czasu i energii. Często zapuszczamy nasze modele na kilka, kilkanaście godzin, albo i dni... Nie wiedząc tak na prawdę jak długo będą się liczyć. Na studiach mogą gonić nas deadliny oddania projektu na najbliższy dzień, w  pracy - najbliższy tydzień. Zapuszczanie treningu, który nie dość, że nie będzie dobry, to skończy nam się po deadlinie nie jest dla nas dobry, bo marnujemy nasz cenny czas oraz energię na model, który zupełnie nam się nie przyda.
+
+Załóżmy, że mamy dwa modele, wydaje nam się, że powinny być równie dobre na start. Ale który wybrać, który średnio szybciej będzie się obliczał na naszych danych? Tu przychodzi nasze rozwiązanie!
+
+
+LLMy  dostały największe boom, dzięki studentom, którzy chcieli się szybciej uczyć. Tworzenie projektów w lepszym tempie też jest jest wartością dodaną i nasze rozwiązanie to zapewnia. Dając studentom informację, czyli najcenniejszą wartość, niczym bazunia na kolosa, pozwalamy oszczędzić czas na bezsensownym trenowaniu modelu.
