@@ -10,6 +10,22 @@ gdzie $\Delta \text{AUC}$ to różnica między AUC modelu a wartością bazową 
 
 ---
 
+## Eksperymenty sprawdzające czy rozwiązanie ma sene
+
+Aby ocenić sensowność podejścia EcoSearch, przeprowadziliśmy eksperymenty porównujące ekologiczność, czas treningu i jakość modeli uzyskanych za pomocą EcoSearch z tradycyjnymi metodami optymalizacji hiperparametrów (*random search*).  
+
+Wyniki pokazały, że EcoSearch pozwala na uzyskanie modeli o porównywalnej jakości (AUC) przy znacznie niższej emisji CO₂ i krótszym czasie treningu.
+
+![image](src/plots/auc_test.png)
+
+![image](src/plots/eaug_full.png)
+
+![image](src/plots/total_emissions.png)
+
+![image](src/plots/total_time.png)
+
+---
+
 ## Funkcje dostępne w EcoSearch
 
 ### `eco_random_search`
